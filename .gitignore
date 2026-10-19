@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model checkpoints and generated outputs
+*.keras
+*.h5
+*.weights.h5
+*.log
+
+# Local environments
+.venv/
+venv/
+env/
